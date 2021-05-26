@@ -1,0 +1,25 @@
+{
+  "name": "serverapollo",
+  "version": "1.0.0",
+  "description": "Server de proyecto de restaurantes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carlos1200/Server-proyecto-restaurantes.git"
+  },
+  "author": "Carlos Herrera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Carlos1200/Server-proyecto-restaurantes/issues"
+  },
+  "homepage": "https://github.com/Carlos1200/Server-proyecto-restaurantes#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "apollo-server": "^2.24.1"
+  }
+}
